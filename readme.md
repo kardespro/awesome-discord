@@ -118,6 +118,7 @@
 - [discord.me](https://discord.me)
 - [discord.io](https://discord.io)
 - [invite.gg](https://invite.gg)
+- [Discord.place](https://discord.place)
 
 ### Custom Bot Invites - Create a custom invite link for your Discord bot.
 - [bot.discord.io](https://bot.discord.io)
@@ -134,7 +135,8 @@
 - [Find a Discord](https://findadiscord.com) - Discord servers list from owners of /r/discordservers and creators of Top Bots List
 - [serverlist.space](https://serverlist.space)
 - [top.gg](https://top.gg/servers)
-- [Disforge Servers](https://disforge.com/servers) 
+- [Disforge Servers](https://disforge.com/servers)
+- [Discord.place](https://discord.place)
 
 ### Bot Lists:
 - **View all bot lists: [botblock.org/lists](https://botblock.org/lists)**
@@ -155,6 +157,7 @@
 - [top.gg](https://top.gg)
 - [Disforge Bots](https://disforge.com/bots)
 - [Topbotlist](https://www.topbotlist.com/)
+- [Discord.place](https://discord.place)
 
 ### Rich Presence 
 - [PreMiD](https://premid.app)
@@ -169,6 +172,7 @@
 - [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)
 - [Blob Emoji](https://blobs.gg)
 - [DiscordEmoji.com](https://discordemoji.com)
+- [Discord.place](https://discord.place)
 
 ### Guides and Tutorials
 - [An Idiot's Guide](https://anidiots.guide)
