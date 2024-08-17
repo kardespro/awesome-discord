@@ -113,6 +113,7 @@
 
 ### Custom Profiles - Extend your Discord profile with these services
 - [discord.bio](https://discord.bio)
+- [Discord.place](https://discord.place)
 
 ### Custom Invites - Create a custom invite for your Discord server and view join stats, etc.
 - [discord.me](https://discord.me)
@@ -122,6 +123,7 @@
 
 ### Custom Bot Invites - Create a custom invite link for your Discord bot.
 - [bot.discord.io](https://bot.discord.io)
+- [Discord.place](https://discord.place)
 
 ### Server Lists - Place your server on a list for free advertising.
 - [Disboard](https://disboard.org)
